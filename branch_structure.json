@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-894-contract-emit-structured-events-from-campaign",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-894-contract-emit-structured-events-from-campaign": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-894-contract-emit-structured-events-from-campaign",
+    "origin"
+  ]
+}
